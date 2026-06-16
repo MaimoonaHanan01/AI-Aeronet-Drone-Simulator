@@ -118,7 +118,7 @@ Year: 2026
 [![Demand Forecasting Results](ScreenshotsAI/Demand_Forecasting_Results.png)
 
 ## Demo Video
-[![AeroNet Pro Demo](ScreenshotsAI/demo-thumbnail.png)
+[![AeroNet Pro Demo](ScreenshotsAI/demo-thumbnail .png)
 
 Watch the project demonstration here:
 (https://youtu.be/kYiO-W4vSy4)
