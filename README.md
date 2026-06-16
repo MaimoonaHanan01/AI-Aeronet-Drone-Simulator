@@ -75,6 +75,48 @@ aeronet_pro/
 ├── outputs/
 └── report/
 ```
+## Skills Demonstrated
+
+- Artificial Intelligence
+- Machine Learning
+- Pathfinding Algorithms
+- Constraint Satisfaction Problems
+- Data Visualization
+- Simulation Design
+- Python Development
+- Streamlit
+- Software Architecture
+
+## Future Improvements
+
+- Reinforcement Learning for route optimization
+- Multi-city simulation
+- Real-time weather integration
+- Live drone telemetry streams
+- Cloud deployment
+
+## Academic Information
+
+Course: Artificial Intelligence
+
+Institution: FAST-NUCES
+
+Year: 2026
+
+## Demo Video
+
+Watch the project demonstration here:
+
+[🎥 AeroNet Pro Demo](https://youtu.be/kYiO-W4vSy4)
+
+The demo showcases:
+- Grid validation using CSP
+- Fleet selection under budget constraints
+- A* and Dijkstra route planning
+- Dynamic no-fly zone rerouting
+- Demand forecasting
+- Drone anomaly detection
+- Interactive 3D visualization
 
 ## Author
 
