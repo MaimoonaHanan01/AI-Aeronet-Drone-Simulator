@@ -121,7 +121,7 @@ Year: 2026
 [![AeroNet Pro Demo](ScreenshotsAI/demo-thumbnail.png)
 
 Watch the project demonstration here:
-[🎥 AeroNet Pro Demo](https://youtu.be/kYiO-W4vSy4)
+(https://youtu.be/kYiO-W4vSy4)
 
 The demo showcases:
 - Grid validation using CSP
