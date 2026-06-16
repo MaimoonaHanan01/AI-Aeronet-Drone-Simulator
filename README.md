@@ -107,16 +107,15 @@ Year: 2026
 
 ### Dashboard
 
-[![Dashboard](/ScreenshotsAI.png)](ScreenshotsAI/dashboard.png)
+[![Dashboard](ScreenshotsAI/dashboard.png)
 
 ### 3D Route Visualization
 
-[![3D Route Visualization](ScreenshotsAI/3D Route Visualization.png)](ScreenshotsAI/3D Route Visualization.png)
+[![3D Route Visualization](ScreenshotsAI/3D_Route_Visualization.png)
 
 ### Demand Forecasting Results
 
-[![Demand Forecasting Results](ScreenshotsAI/Demand Forecasting Results.png)](ScreenshotsAI/Demand Forecasting Results.png)
-
+[![Demand Forecasting Results](ScreenshotsAI/Demand_Forecasting_Results.png)
 ## Demo Video
 [![AeroNet Pro Demo](ScreenshotsAI/demo-thumbnail.png)
 
