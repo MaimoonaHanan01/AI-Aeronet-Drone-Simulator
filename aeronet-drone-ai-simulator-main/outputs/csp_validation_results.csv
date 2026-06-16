@@ -1,0 +1,5 @@
+rule_id,status,details
+R1,PASS,Industrial safety passed.
+R2,PASS,Residential hub coverage passed.
+R3,PASS,Hub charging access passed.
+R4,PASS,"Hospital (4, 1) has medical pickup nearby at (5, 1)."

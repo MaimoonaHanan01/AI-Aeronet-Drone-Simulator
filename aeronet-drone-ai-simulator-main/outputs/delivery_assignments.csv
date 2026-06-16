@@ -1,0 +1,4 @@
+delivery_id,assigned_drone,drone_type,pickup,dropoff,priority,route_status,route_cost,route_length,message
+DEL-1,D1,Light,"(5, 1)","(9, 8)",medical,PLANNED,43.9,33,Full delivery route planned using A*. Total expanded nodes=86. A* route found. Expanded nodes=15 | A* route found. Expanded nodes=15 | A* route found. Expanded nodes=56
+DEL-2,D2,Light,"(2, 1)","(0, 6)",normal,PLANNED,29.6,19,Full delivery route planned using A*. Total expanded nodes=40. A* route found. Expanded nodes=5 | A* route found. Expanded nodes=22 | A* route found. Expanded nodes=13
+DEL-3,D3,Light,"(9, 3)","(2, 0)",normal,PLANNED,51.2,39,Full delivery route planned using A*. Total expanded nodes=115. A* route found. Expanded nodes=15 | A* route found. Expanded nodes=30 | A* route found. Expanded nodes=70

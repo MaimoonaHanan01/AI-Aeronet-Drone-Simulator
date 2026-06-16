@@ -1,0 +1,20 @@
+Step 1: Grid initialized as a 10x10 drone delivery environment.
+Step 2: City cell attributes loaded: zone, density, hub, charging, medical pickup, no-fly, and demand.
+Step 3: CSP validation started.
+Step 4: CSP validation completed: PASS
+Step 5: Fleet selected: 3 light and 1 heavy drones under budget 4800.
+Step 6: Delivery requests generated: 3.
+Step 7: Delivery DEL-1 assigned and A* route planned.
+Step 8: Delivery DEL-2 assigned and A* route planned.
+Step 9: Delivery DEL-3 assigned and A* route planned.
+Step 10: Drones started movement along planned routes.
+Step 11: No-fly disruption activated at cell (3, 2).
+Step 12: Current routes checked against disrupted no-fly cell.
+Step 13: A* rerouting triggered for affected route(s).
+Step 14: Rerouting completed: 3 route(s) updated.
+Step 15: Demand forecasting completed with MAE=44.021 and RMSE=65.805.
+Step 16: Demand prediction stored for fleet/delivery decision support.
+Step 17: Anomaly classifier completed: Decision Tree accuracy=0.986.
+Step 18: Telemetry safety response applied: drone return-to-hub action triggered.
+Step 19: Delivery statuses reviewed for completed, delayed, rerouted, and failed cases.
+Step 20: Simulation complete. Deliveries=3, rerouted=3, delayed=0.

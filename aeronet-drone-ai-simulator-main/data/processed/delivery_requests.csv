@@ -1,0 +1,4 @@
+id,pickup,dropoff,priority
+DEL-1,"(5, 1)","(9, 8)",medical
+DEL-2,"(2, 1)","(0, 6)",normal
+DEL-3,"(9, 3)","(2, 0)",normal

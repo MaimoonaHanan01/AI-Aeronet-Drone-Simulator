@@ -1,0 +1,2 @@
+model,MAE,RMSE,Mean Predicted Demand
+Random Forest Regressor,44.021,65.805,192.179
