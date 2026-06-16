@@ -104,9 +104,9 @@ Institution: FAST-NUCES
 Year: 2026
 
 ## Demo Video
+[![AeroNet Pro Demo](ScreenshotsAI/demo-thumbnail.png)
 
 Watch the project demonstration here:
-
 [🎥 AeroNet Pro Demo](https://youtu.be/kYiO-W4vSy4)
 
 The demo showcases:
